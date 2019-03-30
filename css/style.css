@@ -46,6 +46,9 @@ a {
 
 code {
     padding: 40px;
+    margin: 50px;
     text-align: left;
     background-color: #FB9537;
+    width: 80%;
+    display: block;
 }
