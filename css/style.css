@@ -42,4 +42,13 @@ a {
     position: absolute;
     padding: 50px;
     margin-left: 310px;
+<<<<<<< Updated upstream
+=======
+}
+
+code {
+    padding: 40px;
+    text-align: left;
+    background-color: #FB9537;
+>>>>>>> Stashed changes
 }
