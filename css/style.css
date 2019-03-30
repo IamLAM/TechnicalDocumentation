@@ -37,3 +37,9 @@ header {
 a {
     color: white;
 }
+
+#main-doc {
+    position: absolute;
+    padding: 50px;
+    margin-left: 310px;
+}
