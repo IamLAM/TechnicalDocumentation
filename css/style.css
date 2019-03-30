@@ -38,6 +38,10 @@ a {
     color: white;
 }
 
+#main-doc a {
+    color: #2E626A;
+}
+
 #main-doc {
     position: absolute;
     padding: 50px;
@@ -51,4 +55,5 @@ code {
     background-color: #FB9537;
     width: 80%;
     display: block;
+    border-radius: 15px;
 }
